@@ -1,0 +1,25 @@
+.name {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 33px;
+    /* identical to box height */
+
+    color: #000000;
+
+}
+
+.list {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    color: #000000;
+
+    text-decoration: none;
+
+}
+
+.list:hover {
+    cursor: pointer;
+}

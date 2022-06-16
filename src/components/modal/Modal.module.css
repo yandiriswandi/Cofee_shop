@@ -1,0 +1,59 @@
+.container {
+    width: 416px;
+    height: 408px;
+
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+.btnSignUp {
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 25px;
+
+    width: 190px;
+    height: 50px;
+
+    background: #D60000;
+    border-radius: 5px;
+
+    margin-right: 30px;
+}
+
+.btnSignIn {
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 25px;
+    color: #000 !important;
+
+    width: 190px;
+    height: 50px;
+
+    background: rgba(205, 205, 205, 0.7) !important;
+    border-radius: 5px;
+    border: none;
+}
+
+.btnSignIn:hover {
+    border: 3px chartreuse solid;
+    background: rgba(205, 205, 205, 0.7);
+    color: #000;
+
+}
+
+.btnSignUp:hover {
+    border: 3px greenyellow solid;
+    background: #d60000;
+}
+
+.SignIn {
+    width: 416px;
+    height: 408px;
+
+    background: #FFFFFF;
+    border-radius: 10px;
+}
